@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Food-Cart/static/css/main.efcb19ad.chunk.css",
+    "main.js": "/React-Food-Cart/static/js/main.c65301e0.chunk.js",
+    "main.js.map": "/React-Food-Cart/static/js/main.c65301e0.chunk.js.map",
+    "runtime-main.js": "/React-Food-Cart/static/js/runtime-main.3ab4e21c.js",
+    "runtime-main.js.map": "/React-Food-Cart/static/js/runtime-main.3ab4e21c.js.map",
+    "static/js/2.398f0950.chunk.js": "/React-Food-Cart/static/js/2.398f0950.chunk.js",
+    "static/js/2.398f0950.chunk.js.map": "/React-Food-Cart/static/js/2.398f0950.chunk.js.map",
+    "index.html": "/React-Food-Cart/index.html",
+    "static/css/main.efcb19ad.chunk.css.map": "/React-Food-Cart/static/css/main.efcb19ad.chunk.css.map",
+    "static/js/2.398f0950.chunk.js.LICENSE.txt": "/React-Food-Cart/static/js/2.398f0950.chunk.js.LICENSE.txt",
+    "static/media/burger.9543d252.jpg": "/React-Food-Cart/static/media/burger.9543d252.jpg",
+    "static/media/cheeze-burger.cd99c43c.jpg": "/React-Food-Cart/static/media/cheeze-burger.cd99c43c.jpg",
+    "static/media/chicken-pizza.c8eb135b.jpg": "/React-Food-Cart/static/media/chicken-pizza.c8eb135b.jpg",
+    "static/media/peperoni-pizza.718d2fab.jpg": "/React-Food-Cart/static/media/peperoni-pizza.718d2fab.jpg",
+    "static/media/sandwich.95101a7c.jpg": "/React-Food-Cart/static/media/sandwich.95101a7c.jpg",
+    "static/media/veg-burger.ac8d722e.jpg": "/React-Food-Cart/static/media/veg-burger.ac8d722e.jpg",
+    "static/media/veg-pizza.1b97bc59.jpg": "/React-Food-Cart/static/media/veg-pizza.1b97bc59.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ab4e21c.js",
+    "static/js/2.398f0950.chunk.js",
+    "static/css/main.efcb19ad.chunk.css",
+    "static/js/main.c65301e0.chunk.js"
+  ]
+}
