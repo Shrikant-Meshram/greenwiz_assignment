@@ -5,7 +5,7 @@ const GlobalStyles = createGlobalStyle`
     background: #f2f2f2;
     color: #000;
     height: 100%;
-    font-family: 'Open Sans', sans-serif
+    font-family: 'cursive'
   }
   html {
     height: 100%;

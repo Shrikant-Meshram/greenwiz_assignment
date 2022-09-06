@@ -5,7 +5,8 @@ import PeperoniPizzaImg from "../assets/images/peperoni-pizza.jpg";
 import SandwichImg from "../assets/images/sandwich.jpg";
 import VegBurgerImg from "../assets/images/veg-burger.jpg";
 import VegPizzaImg from "../assets/images/veg-pizza.jpg";
-
+import daltadka from "../assets/images/dalTadka.jpg"
+import rice from "../assets/images/jeera-rice.jpg"
 export const formatPrice = (price) => {
   return new Intl.NumberFormat("en-IN", {
     style: "currency",
@@ -15,7 +16,19 @@ export const formatPrice = (price) => {
 
 const FoodData = [
   {
-    name: "Cheese Burger",
+    name: "Dal Tadka",
+    img: daltadka,
+    section: "Main Cource",
+    price: 150,
+  },
+  {
+    name: "Jeera Rice ",
+    img: rice ,
+    section: "Main Cource",
+    price: 90,
+  },
+  {
+    name: "Burger",
     img: CheeseBurgerImg,
     section: "Burger",
     price: 150,
