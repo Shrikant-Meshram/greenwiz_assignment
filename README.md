@@ -11,7 +11,7 @@ For running this project you will need ```node``` and ```npm``` installed global
 1.  Clone the Project onto your Machine using the following ```git``` command
 
     ```
-    git clone https://github.com/rawat-divyanshu/React-Food-Cart.git
+    git clone https://github.com/Shrikant-Meshram/greenwiz_assignment.git
     ```
     
     
@@ -44,23 +44,3 @@ For running this project you will need ```node``` and ```npm``` installed global
     
     
     
-## Screenshots
-
-![App Screenshot 1](https://github.com/rawat-divyanshu/React-Food-Cart/blob/main/Screenshots/1.png)
-
-
-![App Screenshot 2](https://github.com/rawat-divyanshu/React-Food-Cart/blob/main/Screenshots/2.png)
-
-
-![App Screenshot 3](https://github.com/rawat-divyanshu/React-Food-Cart/blob/main/Screenshots/3.png)
-
-
-![App Screenshot 4](https://github.com/rawat-divyanshu/React-Food-Cart/blob/main/Screenshots/4.png)
-
-
-![App Screenshot 5](https://github.com/rawat-divyanshu/React-Food-Cart/blob/main/Screenshots/5.png)
-## Demo
-
-Visit the site [Here](https://rawat-divyanshu.github.io/React-Food-Cart/)
-
-  
