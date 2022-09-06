@@ -7,6 +7,10 @@ import VegBurgerImg from "../assets/images/veg-burger.jpg";
 import VegPizzaImg from "../assets/images/veg-pizza.jpg";
 import daltadka from "../assets/images/dalTadka.jpg"
 import rice from "../assets/images/jeera-rice.jpg"
+import paneer from "../assets/images/MasalaPaneer.jpg"
+import chana from "../assets/images/chana.jpg"
+import baingan from "../assets/images/baigan.jpg"
+import chapati from "../assets/images/chapati.jpg"
 export const formatPrice = (price) => {
   return new Intl.NumberFormat("en-IN", {
     style: "currency",
@@ -26,6 +30,30 @@ const FoodData = [
     img: rice ,
     section: "Main Cource",
     price: 90,
+  },
+  {
+    name: "Masala Paneer",
+    img: paneer ,
+    section: "Main Cource",
+    price: 170,
+  },
+  {
+    name: "Chana Masala",
+    img: chana ,
+    section: "Main Cource",
+    price: 120,
+  },
+  {
+    name: "baingan Masala",
+    img: baingan ,
+    section: "Main Cource",
+    price: 120,
+  },
+  {
+    name: "Tawa Roti",
+    img:chapati ,
+    section: "Main Cource",
+    price: 15,
   },
   {
     name: "Burger",
